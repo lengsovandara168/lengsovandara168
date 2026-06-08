@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sovandara Leng (Dara)</h1>
+<h1 align="center">Hi 👋, I'm Sovandara Leng (Takumi)</h1>
 <h3 align="center">A passionate Front-End Developer based in Phnom Penh, Cambodia 🇰🇭</h3>
 
 <p align="center">
