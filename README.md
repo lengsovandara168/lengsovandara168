@@ -36,8 +36,17 @@
 </p>
 
 <br/>
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<br><br><br><br><br><br><br>
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=lengsovandara168&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=lengsovandara168&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lengsovandara168&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=lengsovandara168&icon=0&color=0" alt="Profile Views" /></a>
+</p>
