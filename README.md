@@ -5,10 +5,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Front-End+Developer;AUPP+Senior+Student;MPTC+Frontend+Intern;Vue%2C+Next.js+%26+Flutter" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on **EventKH**, **Astrix POS**, and **CourtConnect KH**
-
-- 🌱 I’m currently implementing **Retrieval-Augmented Generation (RAG) and Gemini API** for an agricultural AI project (**AgriBOT**)
-
 - 🏢 I'm currently a Frontend Engineering Intern at the **Ministry of Post and Telecommunications (MPTC)** actively developing digital platforms
 
 - 🎓 Senior Software Development student at the **American University of Phnom Penh (AUPP)**
